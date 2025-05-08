@@ -8,8 +8,8 @@ public class Main {
         int opcao;
 
         do {
-        System.out.println("Digite:\n1 - Cadastrar Novo funcionario (CLT ou PJ)\n2 - Exibir todos os funcionários\n3 - Sair");
-        System.out.print("Opção: ");
+        System.out.println("\t\t\tDigite:\n\t\t\t1 - Cadastrar Novo funcionario (CLT ou PJ)\n\t\t\t2 - Exibir todos os funcionários\n\t\t\t3 - Sair");
+        System.out.print("\t\t\tOpção: ");
         opcao = sc.nextInt();
         sc.nextLine();
 
